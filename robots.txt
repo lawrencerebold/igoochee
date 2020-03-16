@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baejoruan.lucasplabst.de/sitemap.xml
